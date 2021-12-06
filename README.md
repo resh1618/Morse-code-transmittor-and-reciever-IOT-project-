@@ -6,6 +6,7 @@ Arduino Simulators on tinkercad only supports C++ codes, hence why the codes use
 
 The repository consists of circuit diagrams of three arduino models built and their respective code.
 The file *morse_code_transmitter_1.ino* contains the code for the Led morse encryptor. 
+
 The file *morse_code_decoder_2.ino* contains the code for the decryptor which uses an LDR to decode the message. 
 
 Unfortunately the above code does not work on simulations which is why another arduino model was build to decrypt the morse code, but only this time the input instead of being the light signal will be the user provided push prompts.
