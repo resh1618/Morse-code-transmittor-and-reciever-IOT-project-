@@ -5,6 +5,7 @@ The project was done using tinkercad by Autodesk, an open-source platform to bui
 Arduino Simulators on tinkercad only supports C++ codes, hence why the codes used to program the model were written in C++.
 
 The repository consists of circuit diagrams of three arduino models built and their respective code.
+
 The file *morse_code_transmitter_1.ino* contains the code for the Led morse encryptor. 
 
 The file *morse_code_decoder_2.ino* contains the code for the decryptor which uses an LDR to decode the message. 
